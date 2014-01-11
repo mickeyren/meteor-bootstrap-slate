@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-slate",
+  "description": "bootstrap 3.0.2 with slate theme from bootswatch",
+  "homepage": "http://bootswatch.com/slate/",
+  "author": "David Ang (http://programmingmind.com)",
+  "version": "0.0.1",
+  "git": "git@github.com:mickeyren/meteor-bootstrap-slate.git",
+  "packages": { }
+}
